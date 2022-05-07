@@ -1,5 +1,16 @@
-# fale-profissionalmente
+# Fale Profissionalmente
+
 Se expresse profissionalmente no seu trabalho.
+
+### Introdução
+
+Este projeto é um compilado de expressões que podem ser utilizadas para se expressar com colegas de trabalho.
+
+Reconhecendo a importância deste conteúdo para os profissionais, decidi traduzi-lo para o Português (Brasil).
+
+O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay).
+
+### Expressões
 
 - :x: Você está complicando demais isso
 
@@ -9,8 +20,8 @@ Se expresse profissionalmente no seu trabalho.
 
 - :heavy_check_mark: Eu acho que não posso agregar valor para essa reunião mas eu estaria feliz em revisar a mesma depois.
 
-Legenda:
+### Legenda
 
-- :x: modo incorreto de se expressar
+- :x: Modo incorreto de se expressar
 
-- :heavy_check_mark: modo correto de se expressar
+- :heavy_check_mark: Modo correto de se expressar
