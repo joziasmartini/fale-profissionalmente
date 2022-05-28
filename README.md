@@ -37,6 +37,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Você poderia esclarecer sobre as outras perguntas feitas anteriormente?
 
+- :x: Você ao menos leu meu e-mail?
+
+- :heavy_check_mark: Reanexando meu e-mail para fornecer mais clareza
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
