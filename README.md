@@ -69,6 +69,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Eu recomendo direcionar este problema para {nome}, pois eles possuem o conhecimento adequado para melhor ajudá-lo
 
+- :x: Se você tivesse lido o email inteiro, saberia a resposta para isso
+
+- :heavy_check_mark: Incluí meu e-mail inicial abaixo que contém todos os detalhes que você está procurando.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
