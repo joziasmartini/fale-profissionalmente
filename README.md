@@ -105,6 +105,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: É ótimo ver minhas ideias sendo expostas a um público mais amplo e eu teria apreciado a oportunidade de ter sido incluído na entrega.
 
+- :x: Pesquise isso no google você mesmo
+
+- :heavy_check_mark: A internet é um ótimo recurso para esse tipo de dúvida e estou à disposição para esclarecer elementos que você não consegue encontrar online.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
