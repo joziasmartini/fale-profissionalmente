@@ -97,6 +97,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Não tenho capacidade para assumir isso além da minha própria carga de trabalho, mas fico feliz em apoiar onde fizer sentido.
 
+- :x: Não precisamos ter uma reunião sobre isso
+
+- :heavy_check_mark: Por respeito ao tempo de todos, vamos discutir isso por e-mail até termos uma agenda mais definida.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
