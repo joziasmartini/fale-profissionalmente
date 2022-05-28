@@ -57,6 +57,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Isso está fora das minhas responsabilidades, mas ficaria feliz em conectá-lo a alguém que possa ajudar.
 
+- :x: Pare de me atribuir tantas tarefas se você quiser que alguma delas seja concluída
+
+- :heavy_check_mark: Como minha carga de trabalho é bastante pesada, você pode me ajudar a entender o que devo priorizar para adaptar essa nova tarefa?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
