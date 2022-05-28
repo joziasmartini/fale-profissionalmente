@@ -45,6 +45,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Você não ouviu falar de mim porque mais informações não estão disponíveis no momento, assim que eu tiver uma atualização, com certeza entrarei em contato com você.
 
+- :x: Não quero falar com você agora!
+
+- :heavy_check_mark: No momento, estou amarrado a algo, mas vou me conectar com você assim que estiver livre.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
