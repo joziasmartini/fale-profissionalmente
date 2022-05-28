@@ -151,6 +151,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Eu encorajo você a pensar em possíveis soluções antes de me chamar para suporte adicional.
 
+- :x: Você pode fazer o seu trabalho para que eu não precise?
+
+- :heavy_check_mark: Por favor, deixe-me saber quando suas entregas foram concluídas.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
