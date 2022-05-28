@@ -111,6 +111,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: A internet é um ótimo recurso para esse tipo de dúvida e estou à disposição para esclarecer elementos que você não consegue encontrar online.
 
+- :x: O que você está dizendo não faz sentido
+
+- :heavy_check_mark: Parece que temos um entendimento diferente sobre isso. Você pode elaborar mais sobre o seu processo de pensamento aqui?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
