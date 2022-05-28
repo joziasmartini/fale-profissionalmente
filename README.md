@@ -115,6 +115,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Parece que temos um entendimento diferente sobre isso. Você pode elaborar mais sobre o seu processo de pensamento aqui?
 
+- :x: Eu não sou pago o suficiente para fazer isso
+
+- :heavy_check_mark: Isso está fora da descrição do meu trabalho, mas se a oportunidade de expansão de função estiver disponível, ficarei feliz em discutir a reformulação do meu contrato para melhor alinhar essas novas responsabilidades.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
