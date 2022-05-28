@@ -85,6 +85,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: É importante que tenhamos isso concluído para cumprir nossos prazos previstos, que estão se aproximando rapidamente.
 
+- :x: Foque em seu próprio trabalho
+
+- :heavy_check_mark: Obrigado por sua contribuição. Manterei isso em mente à medida que avançar com as decisões que se enquadram nas minhas responsabilidades.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
