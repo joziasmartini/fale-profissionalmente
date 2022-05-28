@@ -123,6 +123,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Obrigado pela sua paciência (...)
 
+- :x: Vou precisar de muito mais informações se você quiser que eu faça isso
+
+- :heavy_check_mark: Avise-me quando mais detalhes estiverem disponíveis, pois preciso de mais informações para concluir esta tarefa com êxito.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
