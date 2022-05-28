@@ -73,6 +73,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Incluí meu e-mail inicial abaixo que contém todos os detalhes que você está procurando.
 
+- :x: Eu não tenho absolutamente nenhuma ideia do que você está falando
+
+- :heavy_check_mark: Você pode me ajudar a entender melhor o que exatamente você precisa do meu lado?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
