@@ -49,6 +49,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: No momento, estou amarrado a algo, mas vou me conectar com você assim que estiver livre.
 
+- :x: Faça seu trabalho!
+
+- :heavy_check_mark: É meu entendimento que você é a pessoa apropriada para entrar em contato com relação a isso. Mas se houver alguém melhor equipado para isso, me avise.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
