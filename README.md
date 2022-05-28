@@ -101,6 +101,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Por respeito ao tempo de todos, vamos discutir isso por e-mail até termos uma agenda mais definida.
 
+- :x: Você acabou de receber crédito pelo meu trabalho?
+
+- :heavy_check_mark: É ótimo ver minhas ideias sendo expostas a um público mais amplo e eu teria apreciado a oportunidade de ter sido incluído na entrega.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
