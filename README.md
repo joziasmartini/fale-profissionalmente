@@ -147,6 +147,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Não posso oferecer suporte adicional para completar sua carga de trabalho.
 
+- :x: Tente resolver o problema por conta própria antes de vir até mim
+
+- :heavy_check_mark: Eu encorajo você a pensar em possíveis soluções antes de me chamar para suporte adicional.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
