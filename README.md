@@ -29,6 +29,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Estamos confiantes de que esta é a melhor solução ou ainda estamos explorando alternativas?
 
+- :x: Eu já te disse isso
+
+- :heavy_check_mark: Conforme indicado anteriormente
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
