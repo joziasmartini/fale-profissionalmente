@@ -61,6 +61,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Como minha carga de trabalho é bastante pesada, você pode me ajudar a entender o que devo priorizar para adaptar essa nova tarefa?
 
+- :x: Responda meus e-mails
+
+- :heavy_check_mark: Se houver uma maneira melhor de entrar em contato com você, por favor me avise, pois espero que isso seja resolvido o mais rápido possível.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
