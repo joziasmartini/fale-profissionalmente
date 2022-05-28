@@ -93,6 +93,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Parece haver uma desconexão aqui, pois esta informação já foi fornecida.
 
+- :x: Eu não vou fazer o seu trabalho por você
+
+- :heavy_check_mark: Não tenho capacidade para assumir isso além da minha própria carga de trabalho, mas fico feliz em apoiar onde fizer sentido.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
