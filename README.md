@@ -127,6 +127,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Avise-me quando mais detalhes estiverem disponíveis, pois preciso de mais informações para concluir esta tarefa com êxito.
 
+- :x: Pare de me chamar antes mesmo do meu dia de trabalho começar
+
+- :heavy_check_mark: Se você precisar entrar em contato comigo, observe que meu horário de trabalho é às 8h e às 18h. As comunicações recebidas antes disso não serão vistas.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
