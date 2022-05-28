@@ -21,6 +21,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Eu acho que não posso agregar valor para essa reunião mas eu estaria feliz em revisar a mesma depois.
 
+- :x: Eu te avisei
+
+- :heavy_check_mark: De acordo com minha previsão, esse resultado não é uma surpresa.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
