@@ -143,6 +143,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Eu notei anteriormente que este era um resultado provável. Como você planeja resolver isso?
 
+- :x: Pare de tentar me obrigar a fazer o seu trabalho!
+
+- :heavy_check_mark: Não posso oferecer suporte adicional para completar sua carga de trabalho.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
