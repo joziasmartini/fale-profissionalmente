@@ -81,6 +81,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Estou confiante em minha capacidade de concluir este projeto e com certeza entrarei em contato, se ou quando precisar de sua opinião.
 
+- :x: Por favor, apresse-se e termine isso!
+
+- :heavy_check_mark: É importante que tenhamos isso concluído para cumprir nossos prazos previstos, que estão se aproximando rapidamente.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
