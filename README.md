@@ -25,6 +25,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: De acordo com minha previsão, esse resultado não é uma surpresa.
 
+- :x: Isso soa como uma ideia horrível
+
+- :heavy_check_mark: Estamos confiantes de que esta é a melhor solução ou ainda estamos explorando alternativas?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
