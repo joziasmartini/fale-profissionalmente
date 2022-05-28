@@ -77,6 +77,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Você pode me ajudar a entender melhor o que exatamente você precisa do meu lado?
 
+- :x: Pare de microgerenciar
+
+- :heavy_check_mark: Estou confiante em minha capacidade de concluir este projeto e com certeza entrarei em contato, se ou quando precisar de sua opinião.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
