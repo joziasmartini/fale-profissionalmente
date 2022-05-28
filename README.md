@@ -89,6 +89,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Obrigado por sua contribuição. Manterei isso em mente à medida que avançar com as decisões que se enquadram nas minhas responsabilidades.
 
+- :x: Já te disse isso várias vezes
+
+- :heavy_check_mark: Parece haver uma desconexão aqui, pois esta informação já foi fornecida.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
