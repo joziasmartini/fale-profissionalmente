@@ -155,6 +155,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Por favor, deixe-me saber quando suas entregas foram concluídas.
 
+- :x: Se forem necessárias mais alterações, faça-as você mesmo.
+
+- :heavy_check_mark: Se forem necessárias mais edições, anexei uma versão do documento na qual você pode aplicar suas edições diretamente.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
