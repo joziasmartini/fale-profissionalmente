@@ -135,6 +135,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Enviei-lhe um e-mail anteriormente sobre isso, mas por favor, me avise se algo deu errado no envio.
 
+- :x: Eu não poderia me importar menos
+
+- :heavy_check_mark: Vou deixar isso ao seu julgamento, uma vez que isso não desperta o meu interesse e confio em sua experiência.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
