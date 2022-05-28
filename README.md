@@ -53,6 +53,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: É meu entendimento que você é a pessoa apropriada para entrar em contato com relação a isso. Mas se houver alguém melhor equipado para isso, me avise.
 
+- :x: Esse não é meu trabalho
+
+- :heavy_check_mark: Isso está fora das minhas responsabilidades, mas ficaria feliz em conectá-lo a alguém que possa ajudar.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
