@@ -131,6 +131,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Se você precisar entrar em contato comigo, observe que meu horário de trabalho é às 8h e às 18h. As comunicações recebidas antes disso não serão vistas.
 
+- :x: Verifique sua caixa de entrada, já enviei isso para você!
+
+- :heavy_check_mark: Enviei-lhe um e-mail anteriormente sobre isso, mas por favor, me avise se algo deu errado no envio.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
