@@ -119,6 +119,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Isso está fora da descrição do meu trabalho, mas se a oportunidade de expansão de função estiver disponível, ficarei feliz em discutir a reformulação do meu contrato para melhor alinhar essas novas responsabilidades.
 
+- :x: Esqueci totalmente do seu e-mail
+
+- :heavy_check_mark: Obrigado pela sua paciência (...)
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
