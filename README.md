@@ -139,6 +139,10 @@ Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING
 
 - :heavy_check_mark: Vou deixar isso ao seu julgamento, uma vez que isso não desperta o meu interesse e confio em sua experiência.
 
+- :x: Eu te avisei e agora este é um problema seu
+
+- :heavy_check_mark: Eu notei anteriormente que este era um resultado provável. Como você planeja resolver isso?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
