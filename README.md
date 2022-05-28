@@ -41,6 +41,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Reanexando meu e-mail para fornecer mais clareza
 
+- :x: Pare de me incomodar
+
+- :heavy_check_mark: Você não ouviu falar de mim porque mais informações não estão disponíveis no momento, assim que eu tiver uma atualização, com certeza entrarei em contato com você.
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
