@@ -5,11 +5,13 @@
 
 ### Introdução
 
-Este projeto é um compilado de expressões que podem ser utilizadas para se expressar com colegas de trabalho.
+Este projeto é um compilado de expressões que podem ser utilizadas com pessoas no seu ambiente de trabalho.
 
 Reconhecendo a importância deste conteúdo para os profissionais, decidi traduzi-lo para o Português (Brasil).
 
-O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay).
+O projeto original encontra-se no link [akashrajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay).
+
+Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Expressões
 
