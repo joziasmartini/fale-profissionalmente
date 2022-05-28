@@ -33,6 +33,10 @@ O projeto original se encontra no link [akashrajpurohit/howtoprofessionallysay](
 
 - :heavy_check_mark: Conforme indicado anteriormente
 
+- :x: Você pode responder todas as perguntas que fiz e não apenas escolher uma
+
+- :heavy_check_mark: Você poderia esclarecer sobre as outras perguntas feitas anteriormente?
+
 ### Legenda
 
 - :x: Modo incorreto de se expressar
