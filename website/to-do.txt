@@ -1,0 +1,2 @@
+1) Insert expressions inside public/index.html
+2) Publish website with firebase cli
