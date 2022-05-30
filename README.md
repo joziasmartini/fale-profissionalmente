@@ -5,13 +5,11 @@
 
 ### Introdução
 
-Este projeto é um compilado de expressões que podem ser utilizadas com pessoas no seu ambiente de trabalho.
+Em um ambiente de trabalho, é de conhecimento geral que nosso comportamento, postura e linguagem devem ser mais reservados e refinados, principalmente se você estiver trabalhando remotamente.
 
-Reconhecendo a importância deste conteúdo para os profissionais, decidi traduzi-lo para o Português (Brasil).
+A importância da nossa linguagem, verbal e escrita, é da maior importância. Entendendo isso, o objetivo desta tradução é ajudá-lo a lapidar sua linguagem para ser um profissional mais empático.
 
-O projeto original encontra-se no link [akashrajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay).
-
-Sinta-se a vontade para sugerir melhorias ou adições através do [CONTRIBUTING.md](CONTRIBUTING.md).
+O projeto original encontra-se no link [akashrajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay). Reconhecendo a importância deste conteúdo para o mercado profissional, decidi traduzi-lo aqui. Sinta-se a vontade para [sugerir melhorias ou adições](CONTRIBUTING.md).
 
 ### Expressões
 
